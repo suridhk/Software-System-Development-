@@ -1,1 +1,9 @@
-/bin/
+# Eclipse workspace metadata
+.metadata/
+
+# Java compiled files
+bin/
+**/bin/
+
+# Eclipse temporary files
+*.tmp
